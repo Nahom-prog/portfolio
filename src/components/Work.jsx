@@ -92,16 +92,16 @@ const PROJECTS = [
       'GitHub open-source repository',
     ],
     tags: ['React', 'Node.js', 'Express', 'Full-stack', 'REST API'],
-    liveUrl: 'https://github.com/nahom-prog/Quiz-app',
-    coverType: 'graphic',
-    graphicClass: 'c4',
+    liveUrl: 'https://quizzlif.netlify.app/',
+    coverType: 'image',
+    mainImage: '/projects/quiz/quiz-hero.png',
     images: [
       {
-        url: '',
-        caption: 'Quiz Master — Full-Stack Interactive Quiz Engine',
+        url: '/projects/quiz/quiz-hero.png',
+        caption: 'QUIZ.IO — Next-Gen Interactive Assessment Platform & Live Exam Chamber',
       },
     ],
-    status: 'GITHUB ↗',
+    status: 'LIVE ↗',
   },
 ];
 
